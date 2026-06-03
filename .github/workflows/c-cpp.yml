@@ -20,4 +20,4 @@ jobs:
     - name: compile programa principal
       run: gcc tabela-ox.c -o tabela-ox
     - name: execute programa principal
-      run: ./tabela-ox
+      run: ./tabela-ox O X X X O O X O X
